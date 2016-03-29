@@ -72,7 +72,7 @@ attributes:
         required: true
     redis-slave:
       number:
-        default: 1
+        default: 2
         required: true
       name:
         default: "redis-slave"
